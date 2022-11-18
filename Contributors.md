@@ -1280,6 +1280,7 @@ Enrique Javier
 - [Md Asif Siddiqui](https://github.com/SidAsif)
 - [Jordan Kallinen](https://github.com/kallinenjp)
 - [Shreya Singh]
+- [Yashwant Singh](https://github.com/ys-333)
 - [John Galt](https://github.com/OcacamsRazorsEdge)
 - [Meet Parekh](https://github.com/Pmeet/)
 - [Ahnaf Azad](https://github.com/ahnafbinazad)
